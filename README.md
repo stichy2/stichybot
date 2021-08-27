@@ -1,0 +1,2 @@
+# stichybot
+My bot stichy
